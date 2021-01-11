@@ -1,0 +1,12 @@
+Billboard
+Score: 477
+
+
+blockchain
+
+
+Welcome to the billboard, you can post an advertisement on the billboard chain, and the more coin you deposit the higher your advertisement ranking will be.
+
+Details
+Attachment
+Playground

@@ -1,0 +1,2 @@
+root@ubuntu:~# nc 54.176.255.241 54321
+server start success: http://54.176.255.241:35015

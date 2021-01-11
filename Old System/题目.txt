@@ -1,0 +1,14 @@
+Old System
+Score: 500
+
+
+web
+
+
+How to exploit the deserialization vulnerability in such an ancient Java environment ?
+
+Java version: 1.4.2_19
+
+http://54.177.240.164:28080/
+
+Attachment
